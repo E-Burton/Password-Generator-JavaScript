@@ -38,7 +38,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-![password generator demo](Assets/password-generator-demo.png)
+![password generator demo](./password-generator-demo.png)
 
 ## Grading Requirements
 
