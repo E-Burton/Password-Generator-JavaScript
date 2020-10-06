@@ -44,5 +44,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Link to Webiste
 
+[Password Generator](https://e-burton.github.io/Password-Generator-JavaScript/)
+
 ## Additional Resources Used for Finished Project
 
