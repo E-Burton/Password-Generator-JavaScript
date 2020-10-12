@@ -44,7 +44,7 @@ The following image shows the web application's appearance and functionality:
     **Solution:** `while` loop.
 
 * Creating array to select random values based on user criteria.<br>
-    **Solution:** Concatenated criteria arrays into new array within `if` statement.
+    **Solution:** Concatenated criteria arrays into new array within `if` statements.
 
 * Returning array as string without commas.<br>
     **Solution:** `join()` function with seperator as empty string `""`.
