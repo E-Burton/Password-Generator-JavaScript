@@ -38,13 +38,26 @@ The following image shows the web application's appearance and functionality:
 
 ![Password Generator Demo](./Assets/password-generator-demo.png)
 
-## Tools Implemented 
-
 ## Challenges
+
+* Ensuring user inputs valid length for password.<br>
+    **Solution:** `while` loop.
+
+* Creating array to select random values based on user criteria.<br>
+    **Solution:** Concatenated criteria arrays into new array within `if` statement.
+
+* Returning array as string without commas.<br>
+    **Solution:** `join()` function with seperator as empty string `""`.
 
 ## Link to Webiste
 
 [Password Generator](https://e-burton.github.io/Password-Generator-JavaScript/)
 
 ## Additional Resources Used for Finished Project
+
+* [How to Select a Random Element from an Array](https://www.geeksforgeeks.org/how-to-select-a-random-element-from-array-in-javascript/)
+
+* [How to Concatenate Arrays](https://www.w3schools.com/jsref/jsref_concat_array.asp)
+
+* [How to Join Arrays](https://www.w3schools.com/jsref/jsref_join.asp)
 
