@@ -1,4 +1,4 @@
-# Password-Generator-JavaScript
+# JavaScript Password Generator
 
 ## Objective
 
